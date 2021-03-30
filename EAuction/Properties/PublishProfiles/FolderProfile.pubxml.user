@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\sathy\OneDrive\Documents\DBS\Network\CA\E-Auction\EAuction\EAuction\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-03-30T10:59:52.8933836Z;True|2021-03-25T13:47:16.7180748+05:30;</History>
+  </PropertyGroup>
+</Project>
